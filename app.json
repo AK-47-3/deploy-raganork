@@ -104,7 +104,7 @@
             "value":"_Bot is alive since {uptime}_"
         },
        "SESSION": {
-            "description": "Your session code, obtained by scanning QR",
+            "description": "Raganork~117425b592a3d55a2ccf691203737b93:7250307565793056347a6f3d",
             "required": true         
         }
     },
